@@ -1,10 +1,10 @@
-# SWG-Titan
+# SWG: Titan
 
-Welcome to **SWG-Titan**, a Star Wars Galaxies emulator project dedicated to preserving and enhancing the classic MMO experience.
+Welcome to **SWG: Titan**, a Star Wars Galaxies emulator project dedicated to preserving and enhancing the classic MMO experience.
 
 ## About
 
-SWG-Titan is an open-source project focused on recreating the Star Wars Galaxies experience. Our goal is to provide a stable, feature-rich server emulator that stays true to the spirit of the original game while embracing community-driven improvements.
+SWG: Titan is an open-source project focused on recreating the Star Wars Galaxies experience. Our goal is to provide a stable, feature-rich server emulator that stays true to the spirit of the original game while embracing community-driven improvements.
 
 ## What We Hold
 
